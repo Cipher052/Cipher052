@@ -12,7 +12,7 @@
 
 我的交流群：1023769030 或扫描二维码
 
-我的博客：[liang0512m-1.github.io](liang0512m-1.github.io)
+我的博客：[liang0512m-1.github.io](https://liang0512m-1.github.io)
 
 除 GitHub 和 哔哩哔哩大号，其它平台都同名，都是"亮"和"Liang0512M"
 
