@@ -14,4 +14,4 @@ QQ号：3981958190
 
 QQ群：1023769030
 
-![qrcode_1745060205645](https://github.com/user-attachments/assets/3b23fa2e-e6e4-485e-ab61-246af6c3b37f)
+<img width="1199" alt="qrcode_1745060205645" src="https://github.com/user-attachments/assets/9a6126d9-527c-4f97-80e2-64d85a36f6b9" />
