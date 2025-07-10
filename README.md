@@ -14,4 +14,4 @@
 
 我的博客：[cir-52.github.io](cir-52.github.io)
 
-全平台同名，都是 Cipher052
+全平台同名，都是 CIR_52 (CIR-52) 
